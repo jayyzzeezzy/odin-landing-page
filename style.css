@@ -31,3 +31,49 @@ a {
     color: #f9faf8;
     font-weight: bold;
 }
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+.hero {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 90px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+    margin-bottom: 5px;
+}
+
+p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 350px;
+    text-align: left;
+}
+
+button {
+    display: block;
+    width: 110px;
+    background-color: #3882f6;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
