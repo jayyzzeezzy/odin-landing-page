@@ -90,3 +90,8 @@ button {
     justify-content: center;
     gap: 40px;
 }
+
+.info img {
+    width: 200px;
+    height: auto;
+}
