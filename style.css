@@ -99,3 +99,18 @@ button {
     border-color: #3882f6;
     border-radius: 10px;
 }
+
+.quote {
+    background-color: #e5e7eb;
+}
+
+.quote_text {
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.quote_author {
+    color: #1f2937;
+    font-weight: bold; 
+}
