@@ -94,4 +94,8 @@ button {
 .info img {
     width: 200px;
     height: auto;
+    display: flex;
+    border-style: solid;
+    border-color: #3882f6;
+    border-radius: 10px;
 }
