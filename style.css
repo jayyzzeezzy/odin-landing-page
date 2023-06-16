@@ -114,3 +114,13 @@ button {
     color: #1f2937;
     font-weight: bold; 
 }
+
+.action_box {
+    background-color: #3882f6;
+    display: flex;
+}
+
+.action_box .container {
+    display: flex;
+    flex-direction: column;
+}
