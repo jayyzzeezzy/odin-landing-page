@@ -115,12 +115,22 @@ button {
     font-weight: bold; 
 }
 
+.action {
+    display: flex;
+    justify-content: center;
+}
+
 .action_box {
     background-color: #3882f6;
     display: flex;
+    width: 600px;
+    padding: 20px 40px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 80px;
 }
 
-.action_box .container {
-    display: flex;
-    flex-direction: column;
+.action_box button {
+    border-color: white;
+    border-style: solid;
 }
