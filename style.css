@@ -105,6 +105,10 @@ button {
     margin-bottom: 8px;
 }
 
+.info .text {
+    margin-bottom: 100px;
+}
+
 .quote {
     background-color: #e5e7eb;
 }
