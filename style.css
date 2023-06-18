@@ -134,3 +134,24 @@ button {
     border-color: white;
     border-style: solid;
 }
+
+.footer {
+    background-color: #1f2937;
+}
+
+.footer_note {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.footer_note p {
+    margin: 0px;
+    padding: 0px;
+}
+
+.footer_note .copyright {
+    padding-bottom: 5px;
+}
