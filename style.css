@@ -113,6 +113,15 @@ button {
     background-color: #e5e7eb;
 }
 
+.textbox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+    margin: 0px;
+}
+
 .quote_text {
     color: #1f2937;
     font-size: 36px;
