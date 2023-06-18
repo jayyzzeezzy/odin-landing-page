@@ -92,7 +92,7 @@ button {
 .container {
     display: flex;
     justify-content: center;
-    gap: 40px;
+    gap: 50px;
 }
 
 .info img {
