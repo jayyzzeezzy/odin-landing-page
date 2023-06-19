@@ -126,6 +126,12 @@ button {
     color: #1f2937;
     font-size: 36px;
     font-style: italic;
+    width: 750px;
+}
+
+p.quote_text {
+    margin: 0px;
+    padding: 0px;
 }
 
 .quote_author {
