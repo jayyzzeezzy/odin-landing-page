@@ -160,6 +160,7 @@ p.quote_author {
     justify-content: space-between;
     align-items: center;
     margin: 40px 80px;
+    border-radius: 8px;
 }
 
 .action_header {
