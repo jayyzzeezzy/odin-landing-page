@@ -149,13 +149,14 @@ p.quote_author {
 .action {
     display: flex;
     justify-content: center;
+    margin: 40px;
 }
 
 .action_box {
     background-color: #3882f6;
     display: flex;
     width: 600px;
-    padding: 20px 40px;
+    padding: 40px 100px;
     justify-content: space-between;
     align-items: center;
     margin: 40px 80px;
