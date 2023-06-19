@@ -162,6 +162,18 @@ p.quote_author {
     margin: 40px 80px;
 }
 
+.action_header {
+    color: white;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.action_text {
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
 .action_box button {
     border-color: white;
     border-style: solid;
