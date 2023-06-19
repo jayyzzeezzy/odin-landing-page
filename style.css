@@ -113,6 +113,8 @@ button {
 
 .info .text {
     margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
 }
 
 .quote {
