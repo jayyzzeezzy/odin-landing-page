@@ -155,7 +155,7 @@ p.quote_author {
 .action_box {
     background-color: #3882f6;
     display: flex;
-    width: 600px;
+    width: 800px;
     padding: 40px 100px;
     justify-content: space-between;
     align-items: center;
