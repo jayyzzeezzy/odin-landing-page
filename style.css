@@ -134,6 +134,13 @@ p.quote_text {
     padding: 0px;
 }
 
+p.quote_author {
+    width: 750px;
+    font-size: 24px;
+    display: flex;
+    justify-content: flex-end;
+}
+
 .quote_author {
     color: #1f2937;
     font-weight: bold; 
