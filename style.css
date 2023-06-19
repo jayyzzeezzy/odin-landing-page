@@ -12,6 +12,11 @@ body {
     padding: 20px 30px;
 }
 
+.left-logo img {
+    width: 150px;
+    height: auto;
+}
+
 ul {
     list-style-type: none;
     padding: 0px;
